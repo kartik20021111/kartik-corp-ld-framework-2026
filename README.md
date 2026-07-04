@@ -2,7 +2,7 @@
 
 > Designed and built by Kartik Sharma · L&D Portfolio Project · 2026
 
-![Dashboard Preview](https://1drv.ms/i/c/9a95079a858f4795/IQBa_G4Jf806SapUzZF1CwLMAWrA6vcg9bL1rZRu7k67ekI?e=rIhdnj)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
