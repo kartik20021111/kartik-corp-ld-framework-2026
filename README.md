@@ -110,9 +110,9 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 | Deck 2 — Leadership Development Pipeline | 3-tier programme, 70-20-10 model, IDP template | [Drive](#) |
 | Deck 3 — Revenue Acceleration Programme | Bronze to Gold certification, SPIN and MEDDIC methodology | [Drive](#) |
 | Deck 4 — Employee Wellness Programme | 4-pillar curriculum covering mental, physical, financial, social wellbeing | [Drive](#) |
-| Competency Framework Matrix | 6 competencies mapped across 4 proficiency levels | [Drive](#) |
-| Annual L&D Calendar 2026 | 24 programmes mapped across 12 months | [Drive](#) |
-| Miro Journey Map | Visual 90-day onboarding experience map | [Open](#) |
+| Competency Framework Matrix | 6 competencies mapped across 4 proficiency levels |[Drive](https://drive.google.com/file/d/1mBhr6LyilnDL-aAHjJRH1fcroEqrHTPn/view?usp=drive_link)|
+| Annual L&D Calendar 2026 | 24 programmes mapped across 12 months |[Drive](https://drive.google.com/file/d/1uU5l_3Duc_j7Oc_PAWBJt5htWB8jjyPA/view?usp=drive_link)|
+| Miro Journey Map | Visual 90-day onboarding experience map |[Open](https://miro.com/app/board/uXjVHFjyMKA=/?share_link_id=768983481430)|
 
 ---
 
@@ -120,9 +120,9 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Deliverable | What It Is | Link |
 |---|---|---|
-| Notion L&D Hub | 10-sub-page employee-facing hub — the single front door to everything | [Open](#) |
-| TalentLMS Course | Live completable Stress to Strength e-learning with auto-issued certificate | [Enroll](#) |
-| Facilitator Guide | Complete minute-by-minute delivery manual for the Wellness Workshop | [Drive](#) |
+| Notion L&D Hub | 10-sub-page employee-facing hub — the single front door to everything |[Open](https://app.notion.com/p/Kartik-Corp-L-D-Hub-37f0c900954380108a32f9b079fd8db3?source=copy_link)|
+| TalentLMS Course | Live completable Stress to Strength e-learning with auto-issued certificate |[Enroll](https://kartikcorp.talentlms.com/plus/catalog)|
+| Facilitator Guide | Complete minute-by-minute delivery manual for the Wellness Workshop |[Drive](https://drive.google.com/file/d/15zRcMUWCTwJ_7qEB0tYFzgdTaq9lim-E/view?usp=drive_link)|
 
 ---
 
@@ -130,12 +130,12 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Form | Purpose | Link |
 |---|---|---|
-| Programme Feedback Survey | NPS rating plus 9 questions after every session | [Form](https://forms.gle/UMQeLZaPncbW9piGA) |
-| Learning Request Form | Employees request training they actually need | [Form](https://forms.gle/1kuXqizYPfCLdgqK8) |
-| 360 Degree Feedback Form | Leadership pipeline mid-point peer review | [Form](https://forms.gle/b8fKVooZPHMq4zHM9) |
-| Pre-Session Stress Assessment | Wellness workshop pre-work sent 48 hours before | [Form](https://forms.gle/75rkFyHfnrCP4ERV8) |
-| Leadership Nomination Form | Managers nominate high-potential team members | [Form](https://forms.gle/WMxzz9emokkGLGcT6) |
-| Facilitator Debrief Form | Post-session self-reflection for every facilitator | [Form](https://forms.gle/CtPrgZ9UgcGkLbki8) |
+| Programme Feedback Survey | NPS rating plus 9 questions after every session |[Form](https://forms.gle/UMQeLZaPncbW9piGA)|
+| Learning Request Form | Employees request training they actually need |[Form](https://forms.gle/1kuXqizYPfCLdgqK8)|
+| 360 Degree Feedback Form | Leadership pipeline mid-point peer review |[Form](https://forms.gle/b8fKVooZPHMq4zHM9)|
+| Pre-Session Stress Assessment | Wellness workshop pre-work sent 48 hours before |[Form](https://forms.gle/75rkFyHfnrCP4ERV8)|
+| Leadership Nomination Form | Managers nominate high-potential team members |[Form](https://forms.gle/WMxzz9emokkGLGcT6)|
+| Facilitator Debrief Form | Post-session self-reflection for every facilitator |[Form](https://forms.gle/CtPrgZ9UgcGkLbki8)|
 
 ---
 
@@ -143,8 +143,8 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Deliverable | What It Is | Link |
 |---|---|---|
-| Figma Dashboard | KPI banner, programme health table, regional split, monthly trend line | [Open](https://bobbin-remote-61204176.figma.site/)|
-| Skills Gap Progress Tracker | Quarterly re-assessment tracking gap closure over time | [Open](https://docs.google.com/spreadsheets/d/1N-hrxwlCi4A17e9uPIyhtDLrfS3veCC7eDacrAlWYHg/edit?usp=drive_link) |
+| Figma Dashboard | KPI banner, programme health table, regional split, monthly trend line |[Open](https://bobbin-remote-61204176.figma.site/)|
+| Skills Gap Progress Tracker | Quarterly re-assessment tracking gap closure over time |[Open](https://docs.google.com/spreadsheets/d/1N-hrxwlCi4A17e9uPIyhtDLrfS3veCC7eDacrAlWYHg/edit?usp=drive_link)|
 
 ---
 
@@ -316,7 +316,7 @@ All company names, employee data, programme outcomes, and scenarios in this proj
 |---|---|
 | 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/kartik-sharma-841629166)|
 | 📝 Medium | [Read on Medium](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357?sharedUserId=kartik111102)|
-| 📧 Email | kartik111102@email.com |
+| 📧 Email | kartik111102@email.com|
 
 ---
 
