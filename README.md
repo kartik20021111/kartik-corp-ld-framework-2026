@@ -1,8 +1,8 @@
 # 🌍 Kartik Corp. Global L&D Framework 2026
 
-> Designed and built by [Your Name] · Senior L&D Specialist Portfolio Project · 2026
+> Designed and built by Kartik Sharma · L&D Portfolio Project · 2026
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://1drv.ms/i/c/9a95079a858f4795/IQBa_G4Jf806SapUzZF1CwLMAWrA6vcg9bL1rZRu7k67ekI?e=rIhdnj)
 
 ---
 
@@ -20,13 +20,13 @@ Every single deliverable in this project exists because a specific finding in th
 
 | What | Link |
 |---|---|
-| 🌐 Notion L&D Hub | [Open Hub](#) |
-| 📊 LNA Report | [Open Report](#) |
-| 📈 Figma Dashboard | [Open Dashboard](#) |
-| 🗺️ Miro Onboarding Journey Map | [Open Map](#) |
-| 🎓 TalentLMS Course | [Enroll Now](#) |
-| 📁 Google Drive | [Open Drive](#) |
-| 📝 Medium Article | [Read Article](#) |
+| 🌐 Notion L&D Hub |[Open Hub](https://app.notion.com/p/Kartik-Corp-L-D-Hub-37f0c900954380108a32f9b079fd8db3?source=copy_link)|
+| 📊 LNA Report |[Open Report](https://app.notion.com/p/Learning-Needs-Analysis-LNA-Report-2026-3840c9009543807baea2d82eee2f88b7?source=copy_link)|
+| 📈 Figma Dashboard |[Open Dashboard](https://bobbin-remote-61204176.figma.site/)|
+| 🗺️ Miro Onboarding Journey Map |[Open Map](https://miro.com/app/board/uXjVHFjyMKA=/?share_link_id=768983481430)|
+| 🎓 TalentLMS Course |[Enroll Now](https://kartikcorp.talentlms.com/plus/catalog)|
+| 📁 Google Drive |[Open Drive](https://drive.google.com/drive/folders/1pr6kIbuOFwHH_EgvyFkdiV_7KKNTMuw2?usp=sharing)|
+| 📝 Medium Article |[Read Article](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357)|
 
 ---
 
@@ -58,7 +58,7 @@ All downloadable files live in Google Drive, organised into sub-folders:
       └── Google Sheets Heatmap Export
 ```
 
-📁 [Open Google Drive Folder](#)
+📁 [Open Google Drive Folder](https://drive.google.com/drive/folders/1pr6kIbuOFwHH_EgvyFkdiV_7KKNTMuw2?usp=sharing)
 
 ---
 
@@ -96,8 +96,8 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Deliverable | What It Is | Link |
 |---|---|---|
-| LNA Report | 24-question survey, 32 manager interviews, exit data analysis across 284 employees | [Open](#) |
-| Skills Gap Heatmap | Role-level, department-level, and regional skill scores colour-coded by severity | [Open](#) |
+| LNA Report | 24-question survey, 32 manager interviews, exit data analysis across 284 employees |[Open](https://app.notion.com/p/Learning-Needs-Analysis-LNA-Report-2026-3840c9009543807baea2d82eee2f88b7?source=copy_link)|
+| Skills Gap Heatmap | Role-level, department-level, and regional skill scores colour-coded by severity |[Open](https://docs.google.com/spreadsheets/d/1N-hrxwlCi4A17e9uPIyhtDLrfS3veCC7eDacrAlWYHg/edit?usp=drive_link)|
 | LNA Skills Survey | The actual 24-question self-assessment sent to all 312 employees | [Form](https://forms.gle/yJG3Q9khib6KQqt66) |
 
 ---
@@ -106,10 +106,10 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Deliverable | What It Is | Link |
 |---|---|---|
-| Deck 1 — Global Onboarding Roadmap | 90-day phased journey, hybrid delivery, regional compliance notes | [Drive](#) |
-| Deck 2 — Leadership Development Pipeline | 3-tier programme, 70-20-10 model, IDP template | [Drive](#) |
-| Deck 3 — Revenue Acceleration Programme | Bronze to Gold certification, SPIN and MEDDIC methodology | [Drive](#) |
-| Deck 4 — Employee Wellness Programme | 4-pillar curriculum covering mental, physical, financial, social wellbeing | [Drive](#) |
+| Deck 1 — Global Onboarding Roadmap | 90-day phased journey, hybrid delivery, regional compliance notes |[Drive](https://drive.google.com/file/d/1s28TwBKimWga7RrD8qDccJ-dMQrVKsOo/view?usp=drive_link)|
+| Deck 2 — Leadership Development Pipeline | 3-tier programme, 70-20-10 model, IDP template |[Drive](https://drive.google.com/file/d/1k3wZe8UP5YXLNPRJ6ehTFa6lUa-EzVRU/view?usp=drive_link)|
+| Deck 3 — Revenue Acceleration Programme | Bronze to Gold certification, SPIN and MEDDIC methodology |[Drive](https://drive.google.com/file/d/1WNW-TGmD6JWYRMzLg8oWXn6rhczKTR3A/view?usp=drive_link)|
+| Deck 4 — Employee Wellness Programme | 4-pillar curriculum covering mental, physical, financial, social wellbeing |[Drive](https://drive.google.com/file/d/1zAoVaqMr1Ny3BUiaeaO7cduzdOGdNH3j/view?usp=drive_link)|
 | Competency Framework Matrix | 6 competencies mapped across 4 proficiency levels |[Drive](https://drive.google.com/file/d/1mBhr6LyilnDL-aAHjJRH1fcroEqrHTPn/view?usp=drive_link)|
 | Annual L&D Calendar 2026 | 24 programmes mapped across 12 months |[Drive](https://drive.google.com/file/d/1uU5l_3Duc_j7Oc_PAWBJt5htWB8jjyPA/view?usp=drive_link)|
 | Miro Journey Map | Visual 90-day onboarding experience map |[Open](https://miro.com/app/board/uXjVHFjyMKA=/?share_link_id=768983481430)|
