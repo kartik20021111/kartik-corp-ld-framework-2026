@@ -315,7 +315,7 @@ All company names, employee data, programme outcomes, and scenarios in this proj
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [[Connect on LinkedIn]](https://www.linkedin.com/in/kartik-sharma-841629166)|
-| 📝 Medium | [[Read on Medium]](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357?sharedUserId=kartik111102)|
+| 📝 Medium | [Read on Medium](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357?sharedUserId=kartik111102)|
 | 📧 Email | kartik111102@email.com |
 
 ---
