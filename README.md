@@ -143,8 +143,8 @@ Every piece in this project lives at one of those five points in the loop. Nothi
 
 | Deliverable | What It Is | Link |
 |---|---|---|
-| Figma Dashboard | KPI banner, programme health table, regional split, monthly trend line | [Open](#) |
-| Skills Gap Progress Tracker | Quarterly re-assessment tracking gap closure over time | [Open](#) |
+| Figma Dashboard | KPI banner, programme health table, regional split, monthly trend line | [[Open]](https://bobbin-remote-61204176.figma.site/)|
+| Skills Gap Progress Tracker | Quarterly re-assessment tracking gap closure over time | [[Open]](https://docs.google.com/spreadsheets/d/1N-hrxwlCi4A17e9uPIyhtDLrfS3veCC7eDacrAlWYHg/edit?usp=drive_link) |
 
 ---
 
@@ -227,7 +227,7 @@ The only fully hosted, completable learning experience in this project — built
 └─────────────────────────────────────────────────────────┘
 ```
 
-🎓 [Enroll in the Course](#)
+🎓 [[Enroll in the Course]](https://kartikcorp.talentlms.com/plus/catalog)
 
 ---
 
@@ -250,7 +250,7 @@ The employee-facing front door to the entire L&D function. 10 sub-pages covering
 └── 📊 LNA Report 2026
 ```
 
-🌐 [Open the Notion Hub](#)
+🌐 [[Open the Notion Hub]](https://app.notion.com/p/Kartik-Corp-L-D-Hub-37f0c900954380108a32f9b079fd8db3?source=copy_link)
 
 ---
 
@@ -275,7 +275,7 @@ The employee-facing front door to the entire L&D function. 10 sub-pages covering
 
 The Medium article walks through every decision made in this project — why the LNA came first, why each programme was designed the way it was, what tools were chosen and why, and what this whole system is actually trying to prove about what senior L&D capability looks like.
 
-📰 [Read the Full Article on Medium](#)
+📰 [[Read the Full Article on Medium]](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357?sharedUserId=kartik111102)
 
 ---
 
@@ -293,7 +293,7 @@ That architecture is intentional. A real L&D function does not live in one folde
 
 ## 👤 About This Project
 
-Built by **[Your Name]**
+Built by **Kartik Sharma**
 
 This project was designed to demonstrate Senior L&D Specialist capability — not just the ability to create training content, but the ability to design, justify, deliver, and measure a complete learning system from the ground up.
 
